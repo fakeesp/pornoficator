@@ -1,0 +1,9 @@
+{
+    "name": "pornoficator",
+    "version": "14.8.8",
+    "dependencies": [
+        {
+            "name": "fmt"
+        }
+    ]
+}
