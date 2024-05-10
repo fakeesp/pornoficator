@@ -1,6 +1,6 @@
 # PORNO
 
-Install cmake and c++ compiler you need
+You need to install cmake and c++ compiler
 
 Clone pornoficator with --recurse
 
